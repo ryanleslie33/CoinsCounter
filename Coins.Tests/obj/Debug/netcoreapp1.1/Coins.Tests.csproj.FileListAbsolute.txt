@@ -1,0 +1,17 @@
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.csprojAssemblyReference.cache
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.AssemblyInfoInputs.cache
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.AssemblyInfo.cs
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.Tests.deps.json
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.Tests.runtimeconfig.json
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.Tests.runtimeconfig.dev.json
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.Tests.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.Tests.pdb
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\bin\Debug\netcoreapp1.1\Coins.pdb
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.csproj.CopyComplete
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.dll
+C:\Users\ryan leslie\Desktop\Coins.solution\Coins.Tests\obj\Debug\netcoreapp1.1\Coins.Tests.pdb

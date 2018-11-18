@@ -12,14 +12,16 @@ namespace CoinsName
       int Pennies = 0;
       int Nickles = 0;
       int Dimes = 0;
-      int change =  Quarters +  Pennies + Nickles + Dimes;
+      // int Dollars = 0;
+      int qchange = 0;
       for(int index = 1; index <= dollars; index ++ )
       {
         if (index %25==0)
         {
-          Quarters ++;
+          qchange +=25;
+          Quarters +=1;
         }
-        else if ( index %10==0 &&  index !=25 && index !=50)
+        else if ( index %10==0)
         {
            Dimes +=1;
         }
@@ -29,10 +31,16 @@ namespace CoinsName
         }
         else
         {
-        Pennies +=1;
+         Pennies +=1;
       }
+
       }
-      return change;
+      Console.WriteLine("your have " + Quarters + " Quarters");
+      Console.WriteLine("your have " + Dimes + " Dimes");
+      Console.WriteLine("your have " + Nickles + " Nickles");
+      Console.WriteLine("your have " + Pennies + " Pennies");
+      return Dimes;
+
     }
   }
 }

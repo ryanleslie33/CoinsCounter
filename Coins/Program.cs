@@ -12,7 +12,7 @@ namespace CoinsName
       string input = Console.ReadLine();
       int dollarAmount = int.Parse(input);
 
-      int Count = CoinsCount.ReturnCount(dollarAmount);
+      int Count = CoinsCount.ReturnCount( dollarAmount);
       Console.WriteLine(Count);
     }
   }

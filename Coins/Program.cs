@@ -8,12 +8,12 @@ namespace CoinsName
   {
     static void Main()
     {
-      Console.WriteLine("enter amount of pennies");
+      Console.WriteLine("enter amount of dollars");
       string input = Console.ReadLine();
-      int dollarAmount = int.Parse(input);
+      decimal dollarAmount = decimal.Parse(input);
 
-      int Count = CoinsCount.ReturnCount( dollarAmount);
-      Console.WriteLine(Count);
+     CoinsCount.ReturnCount( dollarAmount);
+    
     }
   }
 }
